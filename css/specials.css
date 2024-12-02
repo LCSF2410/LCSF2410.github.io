@@ -208,7 +208,6 @@ footer p a:hover{
         text-align: center;
         text-transform: uppercase;
         color: #F2BA2B;
-        text-shadow: 2px rgba(0, 0, 0, 0.098);
     }
 
     /* Tablet Viewport: Style rules for nav area */
@@ -296,7 +295,6 @@ footer p a:hover{
         text-align: center;
         text-transform: uppercase;
         color: #F2BA2B;
-        text-shadow: 2px rgba(0, 0, 0, 0.098);
     }    
 
     .discount-offer{
